@@ -41,10 +41,10 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>SOLUTION</h3>
+<ul><li>The proposed solution is a "Smart Crop Advisory Platform" designed to provide small and marginal farmers with personalized, real-time, and practical agricultural guidance. The system integrates crop recommendation, pest and disease detection, weather forecasting, and fertilizer advisory into a single mobile application that is simple and farmer-friendly. Using artificial intelligence, the app allows farmers to upload images of crops to identify pests and diseases and receive immediate remedies. Based on soil type, seasonal conditions, and location, it suggests the most suitable crops and balanced fertilizer usage to improve yield and reduce input costs. Real-time weather data and alerts help farmers plan farming activities and safeguard crops against adverse conditions. To ensure accessibility, the solution supports multiple Indian languages with voice input and text-to-speech output, making it usable even for farmers with limited literacy. By combining AI, IoT-ready design, and government datasets, the platform empowers farmers to make informed decisions, improve productivity, and increase profitability in a sustainable way.</li>
+<li>This solution helps farmers by giving them the right advice at the right time. Many small farmers face problems like not knowing which crop to grow, how much fertilizer to use, how to control pests, or how to deal with sudden weather changes. Our app solves these problems by suggesting suitable crops, detecting plant diseases from photos, giving weather updates, and guiding fertilizer use. It also works in many Indian languages and supports voice, so even farmers who cannot read easily can use it. Since it works on normal smartphones and can run offline, farmers in villages with less internet can also benefit. By using this app, farmers can grow better crops, reduce losses, and earn more income.</li>
+<li>My solution is special because it uses AI, weather updates, and voice support all in one app. Unlike other apps that give general advice, this one gives personal advice based on the farmer’s soil, crop, and location. Farmers can take a photo of their crop, and the app will tell if there is a pest or disease and how to fix it. It also works offline in villages with less internet and supports many Indian languages with voice, so even farmers who cannot read well can use it. This makes the solution new, different, and very useful for small farmers.</li></ul>
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
