@@ -50,6 +50,8 @@ Agriculture, FoodTech & Rural Development
 <h3>TECHNICAL APPROACH</h3>
 <ul><li>The Smart Crop Advisory App will be developed using a combination of modern technologies to make it efficient, reliable, and farmer-friendly. The mobile app frontend can be built using Java/Kotlin for Android native development or Flutter (Dart) for a cross-platform solution, while the backend will use Python with frameworks like Flask/FastAPI or Node.js (Express.js) to handle requests and connect with the AI models. For pest and disease detection, machine learning libraries such as TensorFlow or PyTorch along with OpenCV will be used to process and analyze crop images. The app will store data locally in SQLite for offline use and connect to PostgreSQL/MySQL databases on the server for central storage when the internet is available. Real-time weather updates and alerts will be integrated through APIs like OpenWeatherMap or IMD services, and multi-language voice support will be enabled using Google Cloud Text-to-Speech/Speech-to-Text or open-source tools like Mozilla DeepSpeech. The backend and AI models will be deployed on cloud platforms such as AWS, Google Cloud, or Microsoft Azure, with GPU support for training and running AI efficiently. For end-users, the app will work smoothly on basic Android smartphones with a camera, while developers will use tools like Git/GitHub for version control and Figma/Canva for UI/UX design. Together, these technologies ensure that the app is lightweight, accessible, scalable, and capable of working even in rural areas with limited internet.</li>
 <li><img width="768" height="316" alt="smart_crop_flowchart" src="https://github.com/user-attachments/assets/8ba7f2b9-333b-460e-a346-4e59fd1db623" />
+  <img width="1024" height="1536" alt="ChatGPT Image Sep 24, 2025, 01_35_45 PM" src="https://github.com/user-attachments/assets/7f6f4807-e57f-43b5-a0b5-cc7db1cf89c0" />
+
 </b></li></ul>
 
 ## Feasibility and Viability
@@ -61,13 +63,13 @@ Agriculture, FoodTech & Rural Development
 ## Impact and Benefits
 <h3>IMPACTS & BENEFITS</h3>
 <ul><li>The Smart Crop Advisory App can have a very positive impact on small and marginal farmers by giving them the right advice at the right time, which can improve their crop yield, reduce losses, and lower farming costs. By helping farmers choose the best crops for their soil and season, use the correct amount of fertilizer, and quickly detect pests and diseases, the app can make farming more efficient and profitable. Weather alerts will protect farmers from sudden climate risks, and the use of local languages and voice support will make it accessible even for those who cannot read well. Since it also works offline, farmers in villages with poor internet will not be left out. Overall, the app can improve farmers’ confidence, increase their income, make farming more sustainable, and contribute to better livelihoods in rural areas.</li>
-<li> SOCIAL BENIFITS
+<li> SOCIAL BENIFITS: 
 The app supports farmers in their local languages and with voice features, making it easy even for those who cannot read. It reduces farmers’ stress by giving quick solutions to problems and helps build confidence in modern farming methods. It also promotes equality by reaching small and marginal farmers who often have less access to expert advice.
 
-ECONOMIC BENEFITS
+ECONOMIC BENEFITS: 
 By suggesting the best crops, guiding the correct amount of fertilizer, and detecting pests and diseases early, the app helps farmers reduce losses and increase crop yield. This directly increases their income and reduces unnecessary spending on inputs. Access to weather alerts also saves farmers from sudden losses due to climate events.
 
-ENVIRONMENTAL BENEFITS
+ENVIRONMENTAL BENEFITS: 
 The app promotes sustainable farming by guiding farmers to use only the required amount of fertilizer, which prevents soil damage and reduces water pollution. Early detection of pests reduces the need for excess pesticide use, protecting the environment and human health. Choosing the right crops for the soil and season also supports long-term soil fertility and reduces wastage of natural resources.</li></ul>
 
 ## Research and References
