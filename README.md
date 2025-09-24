@@ -47,10 +47,9 @@ Agriculture, FoodTech & Rural Development
 <li>My solution is special because it uses AI, weather updates, and voice support all in one app. Unlike other apps that give general advice, this one gives personal advice based on the farmer’s soil, crop, and location. Farmers can take a photo of their crop, and the app will tell if there is a pest or disease and how to fix it. It also works offline in villages with less internet and supports many Indian languages with voice, so even farmers who cannot read well can use it. This makes the solution new, different, and very useful for small farmers.</li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h3>TECHNICAL APPROACH</h3>
+<ul><li>The Smart Crop Advisory App will be developed using a combination of modern technologies to make it efficient, reliable, and farmer-friendly. The mobile app frontend can be built using Java/Kotlin for Android native development or Flutter (Dart) for a cross-platform solution, while the backend will use Python with frameworks like Flask/FastAPI or Node.js (Express.js) to handle requests and connect with the AI models. For pest and disease detection, machine learning libraries such as TensorFlow or PyTorch along with OpenCV will be used to process and analyze crop images. The app will store data locally in SQLite for offline use and connect to PostgreSQL/MySQL databases on the server for central storage when the internet is available. Real-time weather updates and alerts will be integrated through APIs like OpenWeatherMap or IMD services, and multi-language voice support will be enabled using Google Cloud Text-to-Speech/Speech-to-Text or open-source tools like Mozilla DeepSpeech. The backend and AI models will be deployed on cloud platforms such as AWS, Google Cloud, or Microsoft Azure, with GPU support for training and running AI efficiently. For end-users, the app will work smoothly on basic Android smartphones with a camera, while developers will use tools like Git/GitHub for version control and Figma/Canva for UI/UX design. Together, these technologies ensure that the app is lightweight, accessible, scalable, and capable of working even in rural areas with limited internet.</li>
+<li></b></li></ul>
 
 ## Feasibility and Viability
 <h3>Remove These Lines</h3>
