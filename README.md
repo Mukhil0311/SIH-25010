@@ -53,16 +53,25 @@ Agriculture, FoodTech & Rural Development
 </b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>FEASIBILITY & VIABILITY</h3>
+<ul><li>The Smart Crop Advisory App is possible to make and use because all the needed technologies like mobile apps, AI for crop image checking, weather updates, and offline storage already exist and can run on normal smartphones that most farmers have. The cost to build the app may be a little high at the start, but farmers will save money in the long run by using the right crops, less fertilizer, and by avoiding big losses from pests or weather, so it is worth it. The app is simple to use with pictures, local languages, and voice help, so even farmers who cannot read much can use it easily. It also solves real problems farmers face, like which crop to grow, how to control pests, and how to plan for the weather, so farmers will accept it and benefit from it. Overall, this app is practical, affordable, farmer-friendly, and can make farming easier, more profitable, and more sustainable.</li>
+<li>The Smart Crop Advisory App, while very useful, may face some challenges and risks. Farmers in rural areas may not have good internet access, and although the app can work offline, some features like weather updates will need connectivity. Many farmers may also find it difficult to trust new technology in the beginning, so training and awareness will be important. The AI system may not always detect pests and diseases correctly, especially if the photo quality is poor, which could cause farmers to lose trust if wrong advice is given. Another risk is the cost of maintaining and updating the app, including keeping the database of crops, fertilizers, and diseases accurate and up to date. Language and dialect differences across regions can also be a challenge. Finally, if farmers depend only on the app and ignore local expert advice, it may create problems in certain cases.</li>
+<li>To overcome these challenges, the app can include an offline mode where key features like crop suggestions, fertilizer guidance, and disease detection still work without the internet, while weather updates can be stored and refreshed whenever connectivity is available. To build trust, farmers can be given training through workshops, Krishi Vigyan Kendras (KVKs), and farmer groups, showing real success stories of how the app helps. The AI system can be improved by collecting more crop images from local farms to make detection more accurate. Regular updates can be managed by partnering with government agencies and agricultural universities to keep data reliable and low-cost. For language challenges, the app should support multiple Indian languages and add voice features for ease of use. Finally, the app should be promoted as a digital assistant to support farmers, not replace local experts, so that farmers continue to combine both sources of knowledge for the best results.</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<h3>IMPACTS & BENEFITS</h3>
+<ul><li>The Smart Crop Advisory App can have a very positive impact on small and marginal farmers by giving them the right advice at the right time, which can improve their crop yield, reduce losses, and lower farming costs. By helping farmers choose the best crops for their soil and season, use the correct amount of fertilizer, and quickly detect pests and diseases, the app can make farming more efficient and profitable. Weather alerts will protect farmers from sudden climate risks, and the use of local languages and voice support will make it accessible even for those who cannot read well. Since it also works offline, farmers in villages with poor internet will not be left out. Overall, the app can improve farmers’ confidence, increase their income, make farming more sustainable, and contribute to better livelihoods in rural areas.</li>
+<li> SOCIAL BENIFITS
+The app supports farmers in their local languages and with voice features, making it easy even for those who cannot read. It reduces farmers’ stress by giving quick solutions to problems and helps build confidence in modern farming methods. It also promotes equality by reaching small and marginal farmers who often have less access to expert advice.
+
+ECONOMIC BENEFITS
+By suggesting the best crops, guiding the correct amount of fertilizer, and detecting pests and diseases early, the app helps farmers reduce losses and increase crop yield. This directly increases their income and reduces unnecessary spending on inputs. Access to weather alerts also saves farmers from sudden losses due to climate events.
+
+ENVIRONMENTAL BENEFITS
+The app promotes sustainable farming by guiding farmers to use only the required amount of fertilizer, which prevents soil damage and reduces water pollution. Early detection of pests reduces the need for excess pesticide use, protecting the environment and human health. Choosing the right crops for the soil and season also supports long-term soil fertility and reduces wastage of natural resources.</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>RESEARCH AND REFERENCES</h3>
+<ul><li>https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+https://arxiv.org/abs/2205.11108
+https://github.com/alphacep/vosk-api</li></ul>
