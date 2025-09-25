@@ -77,9 +77,11 @@ The app promotes sustainable farming by guiding farmers to use only the required
 <ul><li>New Plant Diseases Dataset (Kaggle):
 This is a public dataset hosted on Kaggle which contains images of plant leaves exhibiting various diseases, intended for use in training, validating, and benchmarking machine learning models for plant disease detection. The dataset includes multiple classes corresponding to different disease types (and healthy leaves), and is accompanied by labels and metadata to facilitate supervised learning in agricultural computer vision applications.
   https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+  
 Paddy Doctor:
 A Visual Image Dataset for Automated Paddy Disease Classification and Benchmarking (arXiv, 2205.11108). This paper introduces Paddy Doctor, a curated visual dataset consisting of 16,225 annotated images of paddy (rice) leaves across 13 classes (12 disease types plus healthy), to address the scarcity of high-quality public datasets for paddy disease detection. The authors benchmark performance using a convolutional neural network and several transfer learning models (VGG16, MobileNet, Xception, ResNet34), reporting strong results (e.g. ResNet34 achieving 97.50% F1-score), and they publicly release the data and code to foster further research.
   https://arxiv.org/abs/2205.11108
+  
 Vosk-API (GitHub repository by alphacep):
 Vosk is an open-source, offline-capable speech recognition toolkit that supports multiple platforms (Android, iOS, Raspberry Pi, servers) and languages (Python, Java, C#, Node.js, etc.). Its models are compact (≈50 MB), with streaming, low-latency transcription, dynamic vocabulary reconfiguration, and speaker identification capabilities, making it suitable for embedding in resource-constrained environments and real-time applications like virtual assistants, transcription tools, and smart devices.
   https://github.com/alphacep/vosk-api</li></ul>
