@@ -74,7 +74,7 @@ The app promotes sustainable farming by guiding farmers to use only the required
 
 ## Research and References
 <h3>RESEARCH AND REFERENCES</h3>
-<ul><li>**New Plant Diseases Dataset (Kaggle):**
+<ul><li>New Plant Diseases Dataset (Kaggle):
 This is a public dataset hosted on Kaggle which contains images of plant leaves exhibiting various diseases, intended for use in training, validating, and benchmarking machine learning models for plant disease detection. The dataset includes multiple classes corresponding to different disease types (and healthy leaves), and is accompanied by labels and metadata to facilitate supervised learning in agricultural computer vision applications.
   https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 Paddy Doctor:
